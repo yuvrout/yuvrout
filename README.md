@@ -1,5 +1,3 @@
-## Hi, I'm Yuv 👋👨‍💻
-
 ![Yuv's GitHub Banner](https://github.com/yuvrout/yuvrout/blob/main/Make%20your%20README.png)
 
 # Tech Stack
