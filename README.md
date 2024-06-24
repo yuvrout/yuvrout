@@ -1,5 +1,19 @@
 ![Yuv's GitHub Banner](https://github.com/yuvrout/yuvrout/blob/main/Make%20your%20README.png)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishnd&label=Profile%20views&color=0e75b6&style=flat" alt="ashishnd" /> </p>
+
+- 🔭 I’m currently interested with **Cloud Technologies**
+
+- 💪 Mastering [**Data Structures and Algorithms**](https://leetcode.com/u/yrout/)
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 📫 How to reach me **yrout3@gatech.edu**
+
+- 🧑‍💼 Connect with me on **[linkedin.com/in/yuv-rout](https://www.linkedin.com/in/yuv-rout/)**
+
+- ⚡ Fun fact **I can solve the Rubik's Cube in less than 15 seconds!**
+
 # Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF5722?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
