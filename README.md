@@ -1,6 +1,6 @@
 ## Hi, I'm Yuv 👋👨‍💻
 
-![Yuv's GitHub Banner](/Make_your_README.png)
+![Yuv's GitHub Banner](https://github.com/yuvrout/yuvrout/blob/main/Make%20your%20README.png)
 
 # Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF5722?style=for-the-badge&logo=JavaScript&logoColor=white)
