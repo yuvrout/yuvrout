@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently interested with **Cloud Technologies**
 
-- 💪 Mastering [**Data Structures and Algorithms**](https://leetcode.com/u/yrout/)
-
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **yrout3@gatech.edu**
